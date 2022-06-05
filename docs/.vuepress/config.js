@@ -3,7 +3,6 @@ module.exports = {
   description: '持续集成',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
       { text: 'Github', link: 'https://github.com/Zack921' },
     ],
     sidebar: [
