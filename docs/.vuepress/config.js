@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Github', link: 'https://github.com/Zack921/moocUI' },
+      { text: 'Github', link: 'https://github.com/Zack921' },
     ],
     sidebar: [
       '/',
